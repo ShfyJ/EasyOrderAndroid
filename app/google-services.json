@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "1060417255755-af0es9btnir9the2pi59bf5nide1jklb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easyorder.user.easyorder",
+            "certificate_hash": "57b2e66f8183affebbc300f553c7687b97b8a431"
+          }
+        },
+        {
           "client_id": "1060417255755-dvg656o22jvajf89ijccr6n8k7as83cn.apps.googleusercontent.com",
           "client_type": 3
         }

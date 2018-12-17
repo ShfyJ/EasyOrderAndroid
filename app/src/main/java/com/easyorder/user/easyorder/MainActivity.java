@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
                 String phone = et_phone.getText().toString();
 
-                if(phone.isEmpty() || phone.length()!=13)
+                if(phone.equals("") || phone.length()!=13)
                 {
                     Toast.makeText(MainActivity.this, "Please, enter your phone number", Toast.LENGTH_SHORT).show();
                 }
