@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EasyOrder</string>
+    <string name="Continue">Continue</string>
+    <string name="logo">TODO</string>
+    <string name="may_i_ask_you_phone_number">May I ask you phone number?</string>
+    <string name="bg_image">TODO</string>
+    <string name="enter_your_number">enter your number</string>
 </resources>
